@@ -4,11 +4,11 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 // modify these settings according to the account on your database server.
-$host = "localhost";
-$port = "8888";
-$username = "root";
-$user_pass = "root";
-$database_in_use = "jokes_table";
+$host = "cst407-jokes-server.mysql.database.azure.com";
+$port = "3306";
+$username = "wozfbrpbmh";
+$user_pass = "V8O0Z4JR0PMQG04G$";
+$database_in_use = "cst407-jokes-database";
 
 
 

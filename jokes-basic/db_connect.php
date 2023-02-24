@@ -7,7 +7,7 @@ error_reporting(E_ALL);
 $host = "cst407-jokes-server.mysql.database.azure.com";
 $port = "3306";
 $username = "wozfbrpbmh";
-$user_pass = "V8O0Z4JR0PMQG04G$";
+$user_pass = "Jokesdata1";
 $database_in_use = "cst407-jokes-database";
 
 
